@@ -1,0 +1,8 @@
+.main-header-title {
+  display: flex;
+  justify-content: space-between;
+}
+
+.main-header-cities {
+  display: flex;
+}

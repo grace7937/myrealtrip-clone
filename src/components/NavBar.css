@@ -1,0 +1,8 @@
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-bar-left {
+  display: flex;
+}
